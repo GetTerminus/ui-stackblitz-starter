@@ -6,10 +6,8 @@ This project is to provide an easy way to create a bug reproduction.
 
 In this project, libraries and all needed dependencies have been installed. Following the steps to get stackblitz up and include its link in your issue reports.
 
-1. `git checkout -b {BRANCH_NAME}`
+1. Fork the `ui-stackblitz-starter` repo
 2. Put your code in `app.component.html` and `app.component.ts` to reproduce the bug.
-3. Once it's done, push your branch to github.
-4. Go to `stackblitz.com/github/GetTerminus/ui-stackblitz-starter/tree/{TAG|BRANCH|COMMIT}` to view your branch in action.
-(For example, if my branch name is `an-input-bug`, the address would be `stackblitz.com/github/GetTerminus/ui-stackblitz-starter/tree/an-input-bug` )
-5. When open a ticket in `terminus-ui` library, please include your stackblitz link - `stackblitz.com/github/GetTerminus/ui-stackblitz-starter/tree/{TAG|BRANCH|COMMIT}`!
-
+3. If there's any special instruction on how to reproduce the bug or in what kind of dev environment, please specify it in README.
+3. Once it's done, push your repo to github.
+4. When open a ticket in `terminus-ui` library, please include your github repo.
