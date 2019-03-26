@@ -1,4 +1,4 @@
-# UiStackblitzStarter
+# UI Stackblitz Starter
 
 This project is to provide an easy way to create a bug reproduction.
 
