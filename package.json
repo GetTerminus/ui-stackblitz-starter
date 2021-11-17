@@ -31,7 +31,7 @@
     "@terminus/ngx-tools": "^6.1.0",
     "@terminus/ui": "^11.7.0",
     "core-js": "^2.6.5",
-    "date-fns": "2.0.0-alpha.16",
+    "date-fns": "2.25.0",
     "rxjs": "^6.4.0",
     "rxjs-compat": "^6.4.0",
     "zone.js": "^0.8.29"
